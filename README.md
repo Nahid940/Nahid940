@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nahid
+- <h3>Hi there! 👋<br>I'm Nahid</h3>
 - :heavy_check_mark: I’m interested in developing web applications based on PHP and PHP frameworks.
 - :heavy_check_mark: My major tech stack is PHP, Javascript(React, Vue & Jquery), Mysql, Redis.
 - :heavy_check_mark: I’m currently learning microservice architecture and ecosystem related to microservices.
