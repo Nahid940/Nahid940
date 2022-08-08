@@ -28,4 +28,6 @@ Technologies that I go through almost everyday are PHP, Codeigniter, Vue.js, Rea
 ## Github Profile Status :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahid940&show_icons=true&count_private=true) 
 
+![nahid940's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid940&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
 
